@@ -1,12 +1,12 @@
 ## **JigsawGame**
 
-### 📷 Screenshots
-
-![Gameplay](JigsawGame.png)
-
 ### 📝 Overview
 
 **JigsawGame** is a simple JavaFX puzzle game that lets players piece together jigsaw puzzles with varying levels of difficulty. Players can choose between four challenge modes, making it perfect for both casual players and those who enjoy a bit more complexity.
+
+### 📷 Screenshots
+
+![Gameplay](JigsawGame.png)
 
 ### 🎯 Features
 
